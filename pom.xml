@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <packaging>mule-extension</packaging>
-    <groupId>${env.ORG_ID}</groupId>
+    <groupId>io.syntaxsugar.connectors</groupId>
     <artifactId>mule4-shopify-connector</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
